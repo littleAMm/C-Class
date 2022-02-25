@@ -11,6 +11,7 @@ namespace 第一次课堂作业
         static void Main(string[] args)
         {
             Console.WriteLine("你好！我是赵嘉兴");
+            Console.ReadLine();
         }
     }
 }
