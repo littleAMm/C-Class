@@ -271,6 +271,7 @@
             // 
             // penCheck
             // 
+            this.penCheck.CheckOnClick = true;
             this.penCheck.FormattingEnabled = true;
             this.penCheck.Items.AddRange(new object[] {
             "红色",
